@@ -2,7 +2,7 @@
 
 Predicts penguin species (Adelie, Chinstrap, Gentoo) using **AdaBoost** — deployed with **Streamlit**.
 
-🔗 **[Live App](https://your-app-link.streamlit.app)**
+🔗 **[Live App](https://fawadahmadbilal.streamlit.app/))**
 
 ---
 
