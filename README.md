@@ -19,7 +19,5 @@ Predicts penguin species (Adelie, Chinstrap, Gentoo) using **AdaBoost** — depl
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
 ---
-
 **Fawad Ahmad Bilal** — BSAI, University of Haripur
